@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-<!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manoj9781&theme=github) -->
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manoj9781&theme=github)
 
  <br> 
  
