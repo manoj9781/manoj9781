@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
-<!-- ![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=manoj9781&theme=nord&show_icons=true&count_private=true) -->
+![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=manoj9781&theme=nord&show_icons=true&count_private=true)
   
   
 <!--   Top Languages Using -->
