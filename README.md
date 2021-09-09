@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
+<hr>
+<br>
+
 <!-- Profile Trophy -->
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
