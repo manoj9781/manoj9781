@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manoj9781&theme=nord_dark)
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manoj9781&theme=nord_dark) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manoj9781&theme=nord_dark)
 
 
 <!--   GitHub stats graph -->
