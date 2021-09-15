@@ -1,4 +1,4 @@
-### Hi there 👋 I am Manoj Singh Rana
+<h1 align="center">Hi 👋, I'm Manoj Singh Rana</h1>
 
 <!--
 **manoj9781/manoj9781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 
 <hr>
 <br>
+
+<h3 align="left">Languages and Tools:</h3>
+
 
 <!-- Profile Trophy -->
 ### 🏆 GitHub Profile Trophy:
