@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manoj Singh Rana</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj9781&label=Profile%20views&color=0e75b6&style=flat" alt="manoj9781" /> </p>
 <!--
 **manoj9781/manoj9781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning Data Structures And Algorithms
